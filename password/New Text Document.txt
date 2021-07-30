@@ -1,0 +1,3 @@
+admin admin123
+lecturer lec123
+student std123
